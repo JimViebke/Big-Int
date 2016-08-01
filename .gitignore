@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+*.suo
+
+# Custom
+*.sdf
+*.opendb
