@@ -15,7 +15,7 @@ private:
 	using block2 = uint64_t;
 	static const unsigned block_max = (block)-1; // the largest value one block can hold
 	static const unsigned block_bits = sizeof(block) * 8; // the number of bits in a block
-	static const unsigned block_count = 1039; // 2^(32*1039) is long enough to handle all 10K digits
+	static const unsigned block_count = 1039; // 2^(32*1039) is long enough to handle all 10K-digit numbers
 
 	std::vector<block> data;
 
