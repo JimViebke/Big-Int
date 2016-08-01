@@ -37,3 +37,5 @@
 *.ilk
 *.log
 Big-Int/Big-Int/~AutoRecover.Big-Int.vcxproj
+*.enc
+Big-Int/Big-Int/Debug/vc140.idb
