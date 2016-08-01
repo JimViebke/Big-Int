@@ -32,3 +32,8 @@
 # Custom
 *.sdf
 *.opendb
+*.tlog
+*.pdb
+*.ilk
+*.log
+Big-Int/Big-Int/~AutoRecover.Big-Int.vcxproj
